@@ -24,4 +24,4 @@ Let's do this a small step at a time and produce substantial, irrevocable progre
 
 ## How to Contribute
 
-Join the channels/groups linked, and ask for permissions to contribute to this project on GitHub. You are also free to submit pull requests, but the main activity will happen in the Wiki.
+Join the channels/groups linked, and ask for permissions to contribute to this project on GitHub. You are also free to submit pull requests, but the main activity will happen in the [Wiki](https://github.com/keskival/ai_enabled_transparency_of_governance_and_power/wiki).
