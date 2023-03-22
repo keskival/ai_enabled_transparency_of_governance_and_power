@@ -7,6 +7,7 @@ This repository relates to a community effort of building tools for fair and jus
 Links to the community on other platforms:
 - [Facebook group](https://www.facebook.com/groups/986349842236271)
 - [Discord invite](https://discord.gg/9WESz4zAaH)
+- [Repository](https://github.com/keskival/ai_enabled_transparency_of_governance_and_power)
 
 Most of the content will be in the [Wiki](https://github.com/keskival/ai_enabled_transparency_of_governance_and_power/wiki).
 
